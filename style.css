@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:azure;
+}
+
+h1 {
+    color:darkblue;
+    size: 30px;
+    text-align: center;
+}
+h2 {
+    color: rgba(52, 48, 48, 0.257);
+    text-align: center;
+    text-decoration: dotted;
+}
